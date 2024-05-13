@@ -295,7 +295,7 @@ a:active {
 /* navBar */
 
 .nav-menu .nav {
-    margin: var(--nav-item-margin);
+    margin: var(--section-title-margin);
     padding: 0;
     list-style: none;
     text-align: center;
@@ -308,7 +308,7 @@ a:active {
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
-    margin: var(--section-title-margin);
+    margin: var(--nav-item-margin);
 }
 
 .nav .nav-link {
