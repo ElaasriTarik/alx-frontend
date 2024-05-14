@@ -419,8 +419,7 @@ ul.row {
 
 .card-services a {
     display: block;
-    padding: calc(2rem);
-    /* 2x the root element */
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
