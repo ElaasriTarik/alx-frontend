@@ -528,12 +528,7 @@ ul.row {
     position: relative;
 }
 
-.card-work .card-outer {
-    position: relative;
-    overflow: hidden;
-}
-
-.card-work .card-outer::before {
+.card-testimonial .card-quote::before {
     content: "\201C";
     position: absolute;
     top: -4.5rem;
@@ -541,6 +536,11 @@ ul.row {
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
+}
+
+.card-work .card-outer {
+    position: relative;
+    overflow: hidden;
 }
 
 .card-work .card-image img {
