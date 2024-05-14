@@ -357,7 +357,7 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-ul[class="row"] {
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -383,5 +383,5 @@ ul[class="row"] {
 }
 
 .footer ul {
-    text-align: left;
+    text-align: right;
 }
