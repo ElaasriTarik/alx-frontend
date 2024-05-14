@@ -468,7 +468,7 @@ ul.row {
 
 }
 
-.card-testimonial .card-avatr cite {
+.card-testimonial .card-quote cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
